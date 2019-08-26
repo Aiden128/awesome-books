@@ -19,3 +19,11 @@ David A Patterson & John L. Hennessy
 [人工智能简史](./books/人工智能简史.pdf)
 
 尼克
+
+---
+
+<img src="./covers/Just-for-fun-The-Story-of-an-Accidental-Revolutionary.jpg">
+
+[Just for Fun: The Story of an Accidental Revolutionary](./books/Just-for-fun-The-Story-of-an-Accidental-Revolutionary.pdf)
+
+Linus Torvalds & David Diamond
