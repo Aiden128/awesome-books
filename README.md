@@ -22,11 +22,15 @@ By David A Patterson, John L. Hennessy
 
 ---
 
-<img src="./covers/Just-for-fun-The-Story-of-an-Accidental-Revolutionary.jpg">
+<img src="./covers/Just-for-fun-The-Story-of-an-Accidental-Revolutionary.jpg"> <img src="./covers/只是为了好玩Linux之父林纳斯自传.jpg">
 
 [Just for Fun: The Story of an Accidental Revolutionary](./books/Just-for-fun-The-Story-of-an-Accidental-Revolutionary.pdf)
 
+[只是为了好玩：Linux之父林纳斯自传](./books/只是为了好玩Linux之父林纳斯自传.pdf)
+
 By Linus Torvalds, David Diamond
+
+陈少芸 译
 
 ---
 
